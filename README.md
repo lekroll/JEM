@@ -1,3 +1,7 @@
+# Citation
+
+Please cite: https://www.ssoar.info/ssoar/handle/document/25502?locale-attribute=en
+
 # JEM
 Job Exposure Matrices
 
